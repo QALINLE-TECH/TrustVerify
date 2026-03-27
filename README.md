@@ -140,5 +140,9 @@ TrustVerify/
 
 Authors
 
-QALINLE-TECH Team
+Salad Ismail Shaiye
+
+Radia Ahmed Abdirahman
+
+Ugbad Bashir Barre
 
